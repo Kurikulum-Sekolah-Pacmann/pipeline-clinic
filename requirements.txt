@@ -1,0 +1,6 @@
+pandas
+oauth2client
+sqlalchemy
+psycopg2-binary
+gspread
+minio
